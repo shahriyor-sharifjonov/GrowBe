@@ -28,18 +28,6 @@
 
 ##
 
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-
-```
-<!--END_SECTION:waka-->
-
-
-
-##
-
 📈 **My GitHub Stats:**
 
 <div display="flex">
